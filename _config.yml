@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+include:          ['_pages']
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Cicero's Speeches
+tagline:          'LATN 322'
+course_number:    'LATN 322'
+section_number:   '01'
+semester:         'Spring 2021'
+url:              https://libatique.info/LATN322-S21
+baseurl:          /
+
+author:
+  name:           'Daniel Libatique'
+  url:            https://libatique.info
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/dlibatique/LATN322-S21
