@@ -24,7 +24,7 @@ Once per week over the weekend, you will complete a quiz aimed at the grammar of
 ***
 
 ## Unessay: 35%
-As a semester-long project, you will complete an Unessay. See [the Unessay page]({{ site.baseurl }}unessay) for details.
+As a semester-long project, you will complete an Unessay. See [the Unessay page](unessay) for details.
 
 ***
 
