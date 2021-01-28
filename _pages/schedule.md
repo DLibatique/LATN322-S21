@@ -2,77 +2,143 @@
 layout: page
 title: Schedule
 permalink: schedule
-order: 5
+order: 6
 ---
 
 ***
 
-[Week 1 (2/2, 2/4)](#week-1) \| [Week 2 (2/9, 2/11)](#week-2) \| [Week 3 (2/16, 2/18)](#week-3) \| [Week 4 (2/23, 2/25)](#week-4) \| [Week 5 (3/2, 3/4)](#week-5) \| [Week 6 (3/9, 3/11)](#week-6) \| [Week 7 (3/16, 3/18)](#week-7) \| [Week 8 (3/23, 3/25)](#week-8) \| [Week 9 (3/30)](#week-9) \| [Week 10 (4/8)](#week-10) \| [Week 11 (4/13, 4/15)](#week-11) \| [Week 12 (4/20, 4/22)](#week-12) \| [Week 13 (4/27, 4/29)](#week-13) \| [Week 14 (5/4, 5/6)](#week-14) \|
+Click [here](https://docs.google.com/document/d/1xPWAsQfw0ewy7m0xIkANWG3GQTOkrwk8mz9WdbHNzQk/edit?usp=sharing) to view this information as a Google Doc.
+
+***
+
+For any given class period, the assignment(s) listed under the date should be prepared for that class; so, for example, you will be expected to come to class on Tuesday, February 9, having prepared *In Verrem* I.1-2. Please note that “prepare” does NOT mean “write out a translation” -- in fact, you are expressly forbidden from writing out a translation to bring to class. “Prepare” means to make grammatical notes (identify person, number, tense, voice, and mood of verbs; gender, case, and number of nouns, adjectives, and participles; etc.), mark your Latin text with syntactic and structural aides (parentheses to sequester clauses or phrases, arrows to indicate possession or modification, underlines, circles, etc.), and note down unfamiliar vocab or conjugations or declensions. Writing out a translation means that you’re not actually doing the work of understanding how the Latin works, which is infinitely more important than coming up with a “perfect” translation.
+
+***
+
+<div class="navdropdown">
+  <button class="navdropbtn" onclick="toggleDropdown()">Week Selection <i class="fa fa-caret-down"></i></button>
+  <div class="navdropdown-content" id="myDropdown">
+    <a href="#week-1">Week 1 (2/2, 2/4)</a>
+    <a href="#week-2">Week 2 (2/9, 2/11)</a>
+    <a href="#week-3">Week 3 (2/16, 2/18)</a>
+    <a href="#week-4">Week 4 (2/23, 2/25)</a>
+    <a href="#week-5">Week 5 (3/2, 3/4)</a>
+    <a href="#week-6">Week 6 (3/9, 3/11)</a>
+    <a href="#week-7">Week 7 (3/16, 3/18)</a>
+    <a href="#week-8">Week 8 (3/23, 3/25)</a>
+    <a href="#week-9">Week 9 (3/30)</a>
+    <a href="#week-10">Week 10 (4/8)</a>
+    <a href="#week-11">Week 11 (4/13, 4/15)</a>
+    <a href="#week-12">Week 12 (4/20, 4/22)</a>
+    <a href="#week-13">Week 13 (4/27, 4/29)</a>
+    <a href="#week-14">Week 14 (5/4, 5/6)</a>
+  </div>
+</div>
 
 ***
 
 ## Week 1
 
 ### Tuesday, February 2
-Syllabus Day
+* Syllabus Day
+* **[OPTIONAL]** [Response 0 - Biden's Inauguration Speech](https://hc.instructure.com/courses/3519/assignments/30008) due
 
 ### Thursday, February 4
-Cicero’s Bio, Oratory, Latin Diagnostic
+* Cicero, Rhetoric, and the Late Roman Republic; Latin Diagnostic
+* read entire syllabus (i.e., the [policies](policies), [grading](grading), and [Unessay](unessay) sections of this site)
+* complete [student information form](https://forms.gle/1EkwwErBKskJxMdt8)
+* [Response 1, Part 1 - Cicero *de Oratore* I.137-143](https://hc.instructure.com/courses/3519/assignments/32148) due
+* [Response 1, Part 2 - May 2002](https://hc.instructure.com/courses/3519/assignments/32164) due
 
 ***
 
-## Week 2
+## Week 2 - Political Jockeying in the *Verrines*
 
 ### Tuesday, February 9
+* *In Verrem* I.1-2
+
 ### Thursday, February 11
+* *Verr.* I.3-5
 
 ***
 
 ## Week 3
 
 ### Tuesday, February 16
+* *Verr.* I.6-8
+* [Quiz 1](https://hc.instructure.com/courses/3519/assignments/32240) Due
+
 ### Thursday, February 18
+* *Verr.* I.9-10
 
 ***
 
-## Week 4
+## Week 4 - A Consul, a Coup, and a Catiline
 
 ### Tuesday, February 23
+* *In Catilinam* I.1-3
+* [Quiz 2](https://hc.instructure.com/courses/3519/assignments/32241) Due
+* Suggested due date for [Response 2 - Tempest 2013](https://hc.instructure.com/courses/3519/assignments/32199)
+
 ### Thursday, February 25
+* *Cat.* I.4-6
+* You must have had your [one-on-one meeting regarding your Unessay](unessay#stages-deadlines-and-evaluation) with me **by 5pm today**.
 
 ***
 
 ## Week 5
 
 ### Tuesday, March 2
+* *Cat.* I.18-20
+* [Quiz 3](https://hc.instructure.com/courses/3519/assignments/32242) Due
+
 ### Thursday, March 4
+* *Cat.* I.31-33
+* You must have submitted your [Unessay formal proposal and grading rubric](unessay#stages-deadlines-and-evaluation) with me **by 5pm today**.
 
 ***
 
-## Week 6
+## Week 6 - A Defense of the Liberal Arts, or, What Are We Even Doing Here
 
 ### Tuesday, March 9
+* *Pro Archia* 1-3
+* [Quiz 4](https://hc.instructure.com/courses/3519/assignments/32243) due
+* Suggested due date for [Response 3 - Bump and Weiner 2014](https://hc.instructure.com/courses/3519/assignments/32219)
+
 ### Thursday, March 11
+* *Arch.* 8-9
 
 ***
 
 ## Week 7
 
 ### Tuesday, March 16
+* *Arch.* 18-19
+* [Quiz 5](https://hc.instructure.com/courses/3519/assignments/32244) due
+
 ### Thursday, March 18
+* *Arch.* 29-30
 
 ***
 
-## Week 8
+## Week 8 - Of *Meretrices* and Men
 
 ### Tuesday, March 23
+* *Pro Caelio* 1-2
+* [Quiz 6](https://hc.instructure.com/courses/3519/assignments/32245) due
+* Starting today, you can complete your [Unessay check-in](unessay#stages-deadlines-and-evaluation).
+* Suggested due date for [Response 4 - Čulík-Baird 2020](https://hc.instructure.com/courses/3519/assignments/32222)
+
 ### Thursday, March 25
+* *Cael.* 13-14
 
 ***
 
 ## Week 9
 
 ### Tuesday, March 30
+* Unessay Brainstorms
+* You must have completed your [Unessay check-in](unessay#stages-deadlines-and-evaluation) **by 5pm today**.
 
 ***
 
@@ -83,41 +149,60 @@ Cicero’s Bio, Oratory, Latin Diagnostic
 ## Week 10
 
 ### Thursday, April 8
+TBD
 
 ***
 
 ## Week 11
 
 ### Tuesday, April 13
+* *Cael.* 35-36
+* [Quiz 7](https://hc.instructure.com/courses/3519/assignments/32246) due
+
 ### Thursday, April 15
+* *Cael.* 49-50
 
 ***
 
-## Week 12
+## Week 12 - Talk \*\*\*\*, Get Hit: Cicero's Big Miscalculation
 
 ### Tuesday, April 20
+* *Philippics* II.44-46
+* [Quiz 8](https://hc.instructure.com/courses/3519/assignments/32247) due
+* Suggested due date for [Response 5 - Skinner 2011](https://hc.instructure.com/courses/3519/assignments/32223)
+
 ### Thursday, April 22
+* *Phil.* II.85-87
 
 ***
 
 ## Week 13
 
 ### Tuesday, April 27
+* *Phil.* II.114-116
+* [Quiz 9](https://hc.instructure.com/courses/3519/assignments/32248) due
+
 ### Thursday, April 29
+* *Phil.* II.117-119
 
 ***
 
 ## Week 14
 
 ### Tuesday, May 4
-Unessay Presentations
+* Unessay Presentations
+* [Quiz 10](https://hc.instructure.com/courses/3519/assignments/32249) due
+* Suggested due date for [Response 6 - Ruprecht 2018](https://hc.instructure.com/courses/3519/assignments/32225)
 
 ### Thursday, May 6
-Unessay Presentations
+* Unessay Presentations
+* All responses due by today
 
 ***
 
 ## Study Period: 5/8 - 5/11
+
+* [Unessay and reflection paper](unessay#stages-deadlines-and-evaluation) due **by 5pm on T 5/11**.
 
 ***
 

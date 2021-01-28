@@ -4,20 +4,27 @@ title: Home
 permalink: /
 ---
 
-# Cicero's Speeches - Spring 2021
+# Cicero's Speeches<br>Spring 2021
 
 ***
 
-## Next Deadlines
+## NEXT DEADLINES
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Tuesday, February 2
+* **[OPTIONAL]** [Response 0 - Biden's Inauguration Speech](https://hc.instructure.com/courses/3519/assignments/30008) due
+
+### Thursday, February 4
+* read entire syllabus (i.e., the [policies](policies), [grading](grading), and [Unessay](unessay) sections of this site)
+* complete [student information form](https://forms.gle/1EkwwErBKskJxMdt8)
+* [Response 1, Part 1 - Cicero *de Oratore* I.137-143](https://hc.instructure.com/courses/3519/assignments/32148) due
+* [Response 1, Part 2 - May 2002](https://hc.instructure.com/courses/3519/assignments/32164) due
 
 ***
 
 ## Course Information
 
 **Meeting Time:** TR 9:45am to 11am  
-**Meeting Place:**  Online (Zoom)
+**Meeting Place:**  Online (Zoom)  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
 **Office:** Fenwick 410  
 **Student Hours:** M 12:30-1:30pm, Th 12-1pm, or by appointment  

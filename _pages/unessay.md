@@ -2,7 +2,7 @@
 layout: page
 title: Unessay
 permalink: unessay
-order: 4
+order: 5
 ---
 
 ***
@@ -11,7 +11,17 @@ Click [here](https://docs.google.com/document/d/10FWj8hXeMTkqwYyj9m4tclQJgH80E7K
 
 ***
 
-[The Unessay](#the-unessay) \| [Essay versus Unessay](#essay-versus-unessay) \| [Guidelines](#guidelines) \| [Why the Unessay?](#why-the-unessay) \| [Example Approaches](#example-approaches) \| [Stages, Deadlines, and Evaluation](#stages-deadlines-and-evaluation)
+<div class="navdropdown">
+  <button class="navdropbtn" onclick="toggleDropdown()">Sections <i class="fa fa-caret-down"></i></button>
+  <div class="navdropdown-content" id="myDropdown">
+    <a href="#the-unessay">The Unessay</a>
+    <a href="#essay-versus-unessay">Essay versus Unessay</a>
+    <a href="#guidelines">Guidelines</a>
+    <a href="#why-the-unessay">Why the Unessay?</a>
+    <a href="#example-approaches">Example Approaches</a>
+    <a href="#stages-deadlines-and-evaluation">Stages, Deadlines, and Evaluation</a>
+  </div>
+</div>
 
 ***
 
