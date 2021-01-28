@@ -48,4 +48,4 @@ All response prompts can be found on [Canvas](https://hc.instructure.com/courses
 * **Response 6 - Ruprecht 2018**
   * Ruprecht, Daniel. 2018. “[Truthful Hyperbole, Honest Bullshit.](https://eidolon.pub/truthful-hyperbole-honest-bullshit-c1b2f0b78c46)” *Eidolon*.
   * [link here](https://hc.instructure.com/courses/3519/assignments/32225)
-  * suggested due date: Tuesday, April 20, 9:45am
+  * suggested due date: Tuesday, May 4, 9:45am
