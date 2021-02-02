@@ -13,7 +13,7 @@ Participation means contributing to our class meetings in productive and respect
 
 ## Reflection Papers: 20%
 
-Once per week, you will submit a reflection paper on a work of secondary scholarship assigned for that week. I will provide specific prompts for each piece for you to answer in your reflection. Generally, each reflection should be no more than 1-2pp. double spaced, but shorter or longer is okay as long as you answer the prompt. Only Responses 0 and 1 (both parts) have definite due dates; the rest will all be due by our final day of class (Th 5/6), but I will suggest staggered due dates so that the five responses do not pile up at the end of the semester.
+Six times throughout the semester, you will submit reflection papers on works of secondary scholarship assigned for that week. I will provide specific prompts for each piece for you to answer in your reflection. Generally, each reflection should be no more than 1-2pp. double spaced, but shorter or longer is okay as long as you answer the prompt. Only Responses 0 and 1 (both parts) have definite due dates; the rest will all be due by our final day of class (Th 5/6), but I will suggest staggered due dates so that the five responses do not pile up at the end of the semester.
 
 ***
 
