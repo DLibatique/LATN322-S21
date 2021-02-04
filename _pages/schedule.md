@@ -56,6 +56,9 @@ For any given class period, the assignment(s) listed under the date should be pr
 
 ### Tuesday, February 9
 * *In Verrem* I.1-2
+  * [Text and Commentary](https://drive.google.com/file/d/1Vx1vMuj2uz7wQbooaPK9fVnsL5JaR-0K/view?usp=sharing)
+  * [Perseus link](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0012%3Atext%3DVer.%3Aactio%3D1%3Abook%3D1%3Asection%3D1)
+  * [Translation and Background](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
 
 ### Thursday, February 11
 * *Verr.* I.3-5

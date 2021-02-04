@@ -9,7 +9,10 @@ order: 1
 
 ## Electronic Resources
 
+* [Translations (In Verrem, In Catilinam, Philippics)](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
+* [Translations (Pro Archia, Pro Caelio)](https://drive.google.com/file/d/1W-AsUJ3VPdRPmTK_qccXoRVnxP2fXrqR/view?usp=sharing)
 * [Perseus Project](http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Greco-Roman): An important web version of Latin texts that can help you with vocabulary, parsing, and word frequencies.
+
 * [Oxford Classical Dictionary](https://holycross.idm.oclc.org/login?auth=cas&url=http://www.oxfordreference.com.holycross.idm.oclc.org/view/10.1093/acref/9780199545568.001.0001/acref-9780199545568): An online version of the *Oxford Classical Dictionary*, to reference names, dates, events, etc.
 * [Logeion: Lexidium](https://logeion.uchicago.edu/lexidium): An online version of the Lewis and Short Latin Dictionary.
 * [Furman: L&S](http://folio2.furman.edu/lewis-short/): Furman University's version of the Lewis and Short Latin Dictionary.
