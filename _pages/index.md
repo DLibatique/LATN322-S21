@@ -10,14 +10,18 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Tuesday, February 2
-* **[OPTIONAL]** [Response 0 - Biden's Inauguration Speech](https://hc.instructure.com/courses/3519/assignments/30008) due
-
 ### Thursday, February 4
 * read entire syllabus (i.e., the [policies](policies), [grading](grading), and [Unessay](unessay) sections of this site)
 * complete [student information form](https://forms.gle/1EkwwErBKskJxMdt8)
 * [Response 1, Part 1 - Cicero *de Oratore* I.137-143](https://hc.instructure.com/courses/3519/assignments/32148) due
 * [Response 1, Part 2 - May 2002](https://hc.instructure.com/courses/3519/assignments/32164) due
+
+### Tuesday, February 9
+* Prepare *In Verrem* I.1-2
+  * [Text and Commentary](https://drive.google.com/file/d/1Vx1vMuj2uz7wQbooaPK9fVnsL5JaR-0K/view?usp=sharing)
+  * [Perseus link](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0012%3Atext%3DVer.%3Aactio%3D1%3Abook%3D1%3Asection%3D1)
+  * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
+* **OPTIONAL**: Read through [pp. 3-12 of Berry 2006](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing) to get some background on the *Verrines*.
 
 ***
 
