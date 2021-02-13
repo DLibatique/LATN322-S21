@@ -16,12 +16,14 @@ permalink: /
   * [Text and Commentary](https://drive.google.com/file/d/1Vx1vMuj2uz7wQbooaPK9fVnsL5JaR-0K/view?usp=sharing)
   * [Perseus link](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0012%3Atext%3DVer.%3Aactio%3D1%3Abook%3D1%3Asection%3D1)
   * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
+* start thinking about Unessay and one-on-one meeting
 
 ### Thursday, February 18
-  * Prepare *In Verrem* I.9-10
-    * [Text and Commentary](https://drive.google.com/file/d/1Vx1vMuj2uz7wQbooaPK9fVnsL5JaR-0K/view?usp=sharing)
-    * [Perseus link](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0012%3Atext%3DVer.%3Aactio%3D1%3Abook%3D1%3Asection%3D1)
-    * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
+* Prepare *In Verrem* I.9-10
+  * [Text and Commentary](https://drive.google.com/file/d/1Vx1vMuj2uz7wQbooaPK9fVnsL5JaR-0K/view?usp=sharing)
+  * [Perseus link](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0012%3Atext%3DVer.%3Aactio%3D1%3Abook%3D1%3Asection%3D1)
+  * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
+* start thinking about Unessay and one-on-one meeting
 
 ***
 
