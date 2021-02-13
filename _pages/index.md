@@ -10,12 +10,6 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Thursday, February 11
-* Prepare *In Verrem* I.3-5
-  * [Text and Commentary](https://drive.google.com/file/d/1Vx1vMuj2uz7wQbooaPK9fVnsL5JaR-0K/view?usp=sharing)
-  * [Perseus link](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0012%3Atext%3DVer.%3Aactio%3D1%3Abook%3D1%3Asection%3D1)
-  * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
-
 ### Tuesday, February 16
 * Submit [Quiz 1](https://hc.instructure.com/courses/3519/assignments/32240)
 * Prepare *Verr.* I.6-8
@@ -23,6 +17,11 @@ permalink: /
   * [Perseus link](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0012%3Atext%3DVer.%3Aactio%3D1%3Abook%3D1%3Asection%3D1)
   * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
 
+### Thursday, February 18
+  * Prepare *In Verrem* I.9-10
+    * [Text and Commentary](https://drive.google.com/file/d/1Vx1vMuj2uz7wQbooaPK9fVnsL5JaR-0K/view?usp=sharing)
+    * [Perseus link](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0012%3Atext%3DVer.%3Aactio%3D1%3Abook%3D1%3Asection%3D1)
+    * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
 
 ***
 
