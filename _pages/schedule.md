@@ -81,11 +81,17 @@ For any given class period, the assignment(s) listed under the date should be pr
 
 ### Tuesday, February 23
 * *In Catilinam* I.1-3
+  * [Text and Commentary (Shapiro 2005)](https://drive.google.com/file/d/1XioNO9_GYJtLpgQ8s_96LKYZblUrcEfz/view?usp=sharing)
+  * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.003&user=stud&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi013/phi0474.phi013.perseus-lat2.xml)
+  * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
 * [Quiz 2](https://hc.instructure.com/courses/3519/assignments/32241) Due
 * Suggested due date for [Response 2 - Tempest 2013](https://hc.instructure.com/courses/3519/assignments/32199)
 
 ### Thursday, February 25
 * *Cat.* I.4-6
+  * [Text and Commentary (Shapiro 2005)](https://drive.google.com/file/d/1XioNO9_GYJtLpgQ8s_96LKYZblUrcEfz/view?usp=sharing)
+  * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.003&user=stud&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi013/phi0474.phi013.perseus-lat2.xml)
+  * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
 * You must have had your [one-on-one meeting regarding your Unessay](unessay#stages-deadlines-and-evaluation) with me **by 5pm today**.
 
 ***

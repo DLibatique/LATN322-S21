@@ -10,20 +10,20 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Tuesday, February 16
-* Submit [Quiz 1](https://hc.instructure.com/courses/3519/assignments/32240)
-* Prepare *Verr.* I.6-8
-  * [Text and Commentary](https://drive.google.com/file/d/1Vx1vMuj2uz7wQbooaPK9fVnsL5JaR-0K/view?usp=sharing)
-  * [Perseus link](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0012%3Atext%3DVer.%3Aactio%3D1%3Abook%3D1%3Asection%3D1)
+### Tuesday, February 23
+* *In Catilinam* I.1-3
+  * [Text and Commentary (Shapiro 2005)](https://drive.google.com/file/d/1XioNO9_GYJtLpgQ8s_96LKYZblUrcEfz/view?usp=sharing)
+  * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.003&user=stud&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi013/phi0474.phi013.perseus-lat2.xml)
   * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
-* start thinking about Unessay and one-on-one meeting
+* [Quiz 2](https://hc.instructure.com/courses/3519/assignments/32241) Due
+* Suggested due date for [Response 2 - Tempest 2013](https://hc.instructure.com/courses/3519/assignments/32199)
 
-### Thursday, February 18
-* Prepare *In Verrem* I.9-10
-  * [Text and Commentary](https://drive.google.com/file/d/1Vx1vMuj2uz7wQbooaPK9fVnsL5JaR-0K/view?usp=sharing)
-  * [Perseus link](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0012%3Atext%3DVer.%3Aactio%3D1%3Abook%3D1%3Asection%3D1)
+### Thursday, February 25
+* *Cat.* I.4-6
+  * [Text and Commentary (Shapiro 2005)](https://drive.google.com/file/d/1XioNO9_GYJtLpgQ8s_96LKYZblUrcEfz/view?usp=sharing)
+  * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.003&user=stud&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi013/phi0474.phi013.perseus-lat2.xml)
   * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
-* start thinking about Unessay and one-on-one meeting
+* You must have had your [one-on-one meeting regarding your Unessay](unessay#stages-deadlines-and-evaluation) with me **by 5pm today**.
 
 ***
 
