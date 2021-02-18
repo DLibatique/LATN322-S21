@@ -86,6 +86,7 @@ For any given class period, the assignment(s) listed under the date should be pr
   * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
 * [Quiz 2](https://hc.instructure.com/courses/3519/assignments/32241) Due
 * Suggested due date for [Response 2 - Tempest 2013](https://hc.instructure.com/courses/3519/assignments/32199)
+* **OPTIONAL**: Read [pp. 134-156 of Berry](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing) for background on the Catilinarian Conspiracy
 
 ### Thursday, February 25
 * *Cat.* I.4-6
