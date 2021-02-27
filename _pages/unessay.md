@@ -114,8 +114,8 @@ Your Unessay project should be completed in the following stages, each of which 
 ### One-on-One Meeting (2.5%)
 By **5pm on Thursday, February 25,** you should have met with me either in student hours or by appointment to discuss what you’re thinking about for your Unessay one-on-one. At this meeting, you will *not* be expected to have a fully fleshed-out idea; I’d just like to chat with you about what direction you might want to take your Unessay in and how the remaining readings or topics in the course may help you with that project! A full 2.5% will be awarded for coming to the meeting prepared to chat about your potential project.
 
-### Formal Proposal and Grading Rubric (5%)
-By **5pm on Thursday, March 4,** you should submit via Canvas a formal proposal and grading rubric for your Unessay. The formal proposal should be about one to two paragraphs explaining what your Unessay is, what topic(s) your Unessay will cover, how it relates to the material of our course, and some potential source material if your Unessay calls for it. The grading rubric will delineate what criteria you must meet in order to earn certain grades on the final submission of your Unessay and reflection paper (see below). We will discuss this further in class.
+### Formal Proposal (5%)
+By **5pm on Thursday, March 4,** you should submit via Canvas a formal proposal for your Unessay. Details of the formal proposal can be found [at this link](unessay-proposal).
 
 ### Check-In (2.5%)
 **Between Tuesday, March 23, and 5pm on Tuesday, March 30,** you will be expected to meet with me in student hours or via appointment or shoot me a quick email to detail your progress on your Unessay. How much have you completed? How much further do you have to go? It’s totally fine if you don’t have much in the way of progress; just be honest about it. A full 2.5% will be awarded for meeting this deadline.

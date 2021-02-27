@@ -22,7 +22,7 @@ permalink: /
   * [Text and Commentary (Shapiro 2005)](https://drive.google.com/file/d/1XioNO9_GYJtLpgQ8s_96LKYZblUrcEfz/view?usp=sharing)
   * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.003&user=stud&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi013/phi0474.phi013.perseus-lat2.xml)
   * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
-* You must have had your [one-on-one meeting regarding your Unessay](unessay#stages-deadlines-and-evaluation) with me **by 5pm today**.
+* You must have submitted your [Unessay formal proposal](https://hc.instructure.com/courses/3519/assignments/36102) **by 5pm today**.
 
 ***
 

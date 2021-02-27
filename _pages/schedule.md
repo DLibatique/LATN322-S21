@@ -105,7 +105,7 @@ For any given class period, the assignment(s) listed under the date should be pr
 
 ### Thursday, March 4
 * *Cat.* I.31-33
-* You must have submitted your [Unessay formal proposal and grading rubric](unessay#stages-deadlines-and-evaluation) with me **by 5pm today**.
+* You must have submitted your [Unessay formal proposal](https://hc.instructure.com/courses/3519/assignments/36102) with me **by 5pm today**.
 
 ***
 
