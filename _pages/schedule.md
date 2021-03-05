@@ -101,10 +101,16 @@ For any given class period, the assignment(s) listed under the date should be pr
 
 ### Tuesday, March 2
 * *Cat.* I.6, 18-19
+  * [Text and Commentary (Shapiro 2005)](https://drive.google.com/file/d/1XioNO9_GYJtLpgQ8s_96LKYZblUrcEfz/view?usp=sharing)
+  * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.003&user=stud&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi013/phi0474.phi013.perseus-lat2.xml)
+  * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
 * [Quiz 3](https://hc.instructure.com/courses/3519/assignments/32242) Due
 
 ### Thursday, March 4
 * *Cat.* I.31-33
+  * [Text and Commentary (Shapiro 2005)](https://drive.google.com/file/d/1XioNO9_GYJtLpgQ8s_96LKYZblUrcEfz/view?usp=sharing)
+  * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.003&user=stud&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi013/phi0474.phi013.perseus-lat2.xml)
+  * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
 * You must have submitted your [Unessay formal proposal](https://hc.instructure.com/courses/3519/assignments/36102) with me **by 5pm today**.
 
 ***
@@ -113,11 +119,18 @@ For any given class period, the assignment(s) listed under the date should be pr
 
 ### Tuesday, March 9
 * *Pro Archia* 1-3
+  * [Text and Commentary (Cerutti 2006), Pro Arch. 1-3](https://drive.google.com/file/d/1_HtVZEcXRiGyi5d-Mo6_pq6iw8CWFq2u/view?usp=sharing)
+  * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.003&user=stud&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi016/phi0474.phi016.perseus-lat2.xml)
+  * [Translation](https://drive.google.com/file/d/1W-AsUJ3VPdRPmTK_qccXoRVnxP2fXrqR/view?usp=sharing)
 * [Quiz 4](https://hc.instructure.com/courses/3519/assignments/32243) due
 * Suggested due date for [Response 3 - Bump and Weiner 2014](https://hc.instructure.com/courses/3519/assignments/32219)
+* **OPTIONAL**: Read [pp. 107-109 of Berry 2001](https://drive.google.com/file/d/1W-AsUJ3VPdRPmTK_qccXoRVnxP2fXrqR/view?usp=sharing) for background on the *Pro Archia*
 
 ### Thursday, March 11
 * *Arch.* 8-9
+  * [Text and Commentary (Cerutti 2006), Pro Arch. 8-9](https://drive.google.com/file/d/1_I3gSKAJfh5ZNfyRJcbj4MBB9TWJLD-T/view?usp=sharing)
+  * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.003&user=stud&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi016/phi0474.phi016.perseus-lat2.xml)
+  * [Translation](https://drive.google.com/file/d/1W-AsUJ3VPdRPmTK_qccXoRVnxP2fXrqR/view?usp=sharing)
 
 ***
 
@@ -125,10 +138,16 @@ For any given class period, the assignment(s) listed under the date should be pr
 
 ### Tuesday, March 16
 * *Arch.* 18-19
+  * [Text and Commentary (Cerutti 2006), Pro Arch. 18-19](https://drive.google.com/file/d/1_JzaMivfCEhzDxU0uh-ha-6LQfFEVYCt/view?usp=sharing)
+  * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.003&user=stud&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi016/phi0474.phi016.perseus-lat2.xml)
+  * [Translation](https://drive.google.com/file/d/1W-AsUJ3VPdRPmTK_qccXoRVnxP2fXrqR/view?usp=sharing)
 * [Quiz 5](https://hc.instructure.com/courses/3519/assignments/32244) due
 
 ### Thursday, March 18
-* *Arch.* 29-30
+* *Arch.* 28-30
+  * [Text and Commentary (Cerutti 2006), Pro Arch. 28-30](https://drive.google.com/file/d/1_Km0cdI1fp-3XkZH87MtyMia0H8ibrLl/view?usp=sharing)
+  * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.003&user=stud&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi016/phi0474.phi016.perseus-lat2.xml)
+  * [Translation](https://drive.google.com/file/d/1W-AsUJ3VPdRPmTK_qccXoRVnxP2fXrqR/view?usp=sharing)
 
 ***
 
