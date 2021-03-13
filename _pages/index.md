@@ -11,17 +11,15 @@ permalink: /
 ## NEXT DEADLINES
 
 ### Tuesday, March 9
-* *Pro Archia* 1-3
-  * [Text and Commentary (Cerutti 2006), Pro Arch. 1-3](https://drive.google.com/file/d/1_HtVZEcXRiGyi5d-Mo6_pq6iw8CWFq2u/view?usp=sharing)
+* *Pro Archia* 18-19
+  * [Text and Commentary (Cerutti 2006), Pro Arch. 18-19](https://drive.google.com/file/d/1_JzaMivfCEhzDxU0uh-ha-6LQfFEVYCt/view?usp=sharing)
   * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.003&user=stud&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi016/phi0474.phi016.perseus-lat2.xml)
   * [Translation](https://drive.google.com/file/d/1W-AsUJ3VPdRPmTK_qccXoRVnxP2fXrqR/view?usp=sharing)
-* [Quiz 4](https://hc.instructure.com/courses/3519/assignments/32243) due
-* Suggested due date for [Response 3 - Bump and Weiner 2014](https://hc.instructure.com/courses/3519/assignments/32219)
-* **OPTIONAL**: Read [pp. 107-109 of Berry 2001](https://drive.google.com/file/d/1W-AsUJ3VPdRPmTK_qccXoRVnxP2fXrqR/view?usp=sharing) for background on the *Pro Archia*
+* [Quiz 5](https://hc.instructure.com/courses/3519/assignments/32244) due
 
 ### Thursday, March 11
-* *Arch.* 8-9
-  * [Text and Commentary (Cerutti 2006), Pro Arch. 8-9](https://drive.google.com/file/d/1_I3gSKAJfh5ZNfyRJcbj4MBB9TWJLD-T/view?usp=sharing)
+* *Arch.* 28-30
+  * [Text and Commentary (Cerutti 2006), Pro Arch. 28-30](https://drive.google.com/file/d/1_Km0cdI1fp-3XkZH87MtyMia0H8ibrLl/view?usp=sharing)
   * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.003&user=stud&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi016/phi0474.phi016.perseus-lat2.xml)
   * [Translation](https://drive.google.com/file/d/1W-AsUJ3VPdRPmTK_qccXoRVnxP2fXrqR/view?usp=sharing)
 
