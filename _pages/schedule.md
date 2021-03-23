@@ -164,7 +164,7 @@ For any given class period, the assignment(s) listed under the date should be pr
 * **OPTIONAL**: Read [Berry 2001, pp. 122-128](https://drive.google.com/file/d/1W-AsUJ3VPdRPmTK_qccXoRVnxP2fXrqR/view?usp=sharing), for background on the *Pro Caelio*
 
 ### Thursday, March 25
-* *Cael.* 13-14
+* *Cael.* 6 (starting one sentence in, at "Nam quod obiectum est de pudicitia") to 9 (stretch goal: add sections 13-14)
   * [Text and Commentary (Englert 1990)](https://drive.google.com/file/d/1Tly0-1Er8Mwk0i9bi37XmDwndmR1B6UN/view?usp=sharing)
   * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.003&user=acad&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi024/phi0474.phi024.perseus-lat2.xml)
   * [Translation](https://drive.google.com/file/d/1W-AsUJ3VPdRPmTK_qccXoRVnxP2fXrqR/view?usp=sharing)
