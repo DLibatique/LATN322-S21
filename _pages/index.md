@@ -10,21 +10,8 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Tuesday, March 23
-* *Pro Caelio* 1-2
-  * [Text and Commentary (Englert 1990)](https://drive.google.com/file/d/1Tly0-1Er8Mwk0i9bi37XmDwndmR1B6UN/view?usp=sharing)
-  * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.003&user=acad&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi024/phi0474.phi024.perseus-lat2.xml)
-  * [Translation](https://drive.google.com/file/d/1W-AsUJ3VPdRPmTK_qccXoRVnxP2fXrqR/view?usp=sharing)
-* [Quiz 6](https://hc.instructure.com/courses/3519/assignments/32245) due
-* Starting today, you can complete your [Unessay check-in](unessay#stages-deadlines-and-evaluation).
-* Suggested due date for [Response 4 - Čulík-Baird 2020](https://hc.instructure.com/courses/3519/assignments/32222)
-* **OPTIONAL**: Read [Berry 2001, pp. 122-128](https://drive.google.com/file/d/1W-AsUJ3VPdRPmTK_qccXoRVnxP2fXrqR/view?usp=sharing), for background on the *Pro Caelio*
-
-### Thursday, March 25
-* *Cael.* 6 (starting one sentence in, at "Nam quod obiectum est de pudicitia") to 9 (stretch goal: add sections 13-14)
-  * [Text and Commentary (Englert 1990)](https://drive.google.com/file/d/1Tly0-1Er8Mwk0i9bi37XmDwndmR1B6UN/view?usp=sharing)
-  * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.003&user=acad&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi024/phi0474.phi024.perseus-lat2.xml)
-  * [Translation](https://drive.google.com/file/d/1W-AsUJ3VPdRPmTK_qccXoRVnxP2fXrqR/view?usp=sharing)
+### Tuesday, March 30
+* Unessay Brainstorms - bring a quick summary of your Unessay to class
 
 ***
 
