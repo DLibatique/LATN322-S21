@@ -205,8 +205,12 @@ TBD
 
 ### Tuesday, April 20
 * *Philippics* II.44-46
+  * [Text and Commentary](http://dcc.dickinson.edu/cicero-philippics/ii-44)
+  * [Perseus link](http://www.perseus.tufts.edu/hopper/text?doc=Cic.+Phil.+2.44&fromdoc=Perseus%3Atext%3A1999.02.0011)
+  * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
 * [Quiz 8](https://hc.instructure.com/courses/3519/assignments/32247) due
 * Suggested due date for [Response 5 - Skinner 2011](https://hc.instructure.com/courses/3519/assignments/32223)
+* **OPTIONAL**: Read [Berry pp. 222-228](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing) for context on the *Philippics*
 
 ### Thursday, April 22
 * *Phil.* II.85-87
