@@ -10,20 +10,34 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Tuesday, April 20
+### Tuesday, April 27
 * *Philippics* II.114-116
   * [Text and Commentary](http://dcc.dickinson.edu/cicero-philippics/ii-114)
   * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.005&user=acad&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml)
   * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
 * [Quiz 9](https://hc.instructure.com/courses/3519/assignments/32248) due
-* WORK ON YOUR UNESSAY!
+* [WORK ON YOUR UNESSAY!](https://docs.google.com/document/d/1FTz3Of-kiKRBWt0jK7bDiaFiVaIMt-wOiLRQohTj2AM/edit?usp=sharing)
 
-### Thursday, April 22
+### Thursday, April 29
 * *Phil.* II.117-119
   * [Text and Commentary](http://dcc.dickinson.edu/cicero-philippics/ii-117)
   * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.005&user=acad&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml)
   * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
-* WORK ON YOUR UNESSAY!
+* [WORK ON YOUR UNESSAY!](https://docs.google.com/document/d/1FTz3Of-kiKRBWt0jK7bDiaFiVaIMt-wOiLRQohTj2AM/edit?usp=sharing)
+
+### Tuesday, May 4
+* [Unessay Presentations](https://docs.google.com/document/d/1FTz3Of-kiKRBWt0jK7bDiaFiVaIMt-wOiLRQohTj2AM/edit?usp=sharing)
+* [Quiz 10](https://hc.instructure.com/courses/3519/assignments/32249) due
+* Suggested due date for [Response 6 - Ruprecht 2018](https://hc.instructure.com/courses/3519/assignments/32225)
+
+### Thursday, May 6
+* [Unessay Presentations](https://docs.google.com/document/d/1FTz3Of-kiKRBWt0jK7bDiaFiVaIMt-wOiLRQohTj2AM/edit?usp=sharing)
+
+### Friday, May 7
+* all outstanding quizzes and responses due today
+
+### Tuesday, May 11
+* [Unessay and Reflection](unessay#unessay-15-and-reflection-paper-5) due by 5pm today
 
 ***
 
