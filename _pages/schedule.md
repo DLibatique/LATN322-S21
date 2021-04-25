@@ -221,23 +221,31 @@ TBD
 
 ### Tuesday, April 27
 * *Phil.* II.114-116
+  * [Text and Commentary](http://dcc.dickinson.edu/cicero-philippics/ii-114)
+  * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.005&user=acad&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml)
+  * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
 * [Quiz 9](https://hc.instructure.com/courses/3519/assignments/32248) due
 
 ### Thursday, April 29
 * *Phil.* II.117-119
+  * [Text and Commentary](http://dcc.dickinson.edu/cicero-philippics/ii-117)
+  * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.005&user=acad&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml)
+  * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
 
 ***
 
 ## Week 14
 
 ### Tuesday, May 4
-* Unessay Presentations
+* [Unessay Presentations](unessay#in-class-presentation-5)
 * [Quiz 10](https://hc.instructure.com/courses/3519/assignments/32249) due
 * Suggested due date for [Response 6 - Ruprecht 2018](https://hc.instructure.com/courses/3519/assignments/32225)
 
 ### Thursday, May 6
-* Unessay Presentations
-* All responses due by today
+* [Unessay Presentations](unessay#in-class-presentation-5)
+
+### Friday, May 7
+* all outstanding quizzes and responses due today
 
 ***
 

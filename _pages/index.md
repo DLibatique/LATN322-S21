@@ -20,7 +20,7 @@ permalink: /
 
 ### Thursday, April 22
 * *Phil.* II.117-119
-  * [Text and Commentary](http://dcc.dickinson.edu/cicero-philippics/ii-114)
+  * [Text and Commentary](http://dcc.dickinson.edu/cicero-philippics/ii-117)
   * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.005&user=acad&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml)
   * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
 * WORK ON YOUR UNESSAY!
