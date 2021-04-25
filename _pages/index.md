@@ -11,16 +11,19 @@ permalink: /
 ## NEXT DEADLINES
 
 ### Tuesday, April 20
-* *Philippics* II.44-46
-  * [Text and Commentary](http://dcc.dickinson.edu/cicero-philippics/ii-44)
-  * [Perseus link](http://www.perseus.tufts.edu/hopper/text?doc=Cic.+Phil.+2.44&fromdoc=Perseus%3Atext%3A1999.02.0011)
+* *Philippics* II.114-116
+  * [Text and Commentary](http://dcc.dickinson.edu/cicero-philippics/ii-114)
+  * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.005&user=acad&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml)
   * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
-* [Quiz 8](https://hc.instructure.com/courses/3519/assignments/32247) due
-* Suggested due date for [Response 5 - Skinner 2011](https://hc.instructure.com/courses/3519/assignments/32223)
-* **OPTIONAL**: Read [Berry pp. 222-228](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing) for context on the *Philippics*
+* [Quiz 9](https://hc.instructure.com/courses/3519/assignments/32248) due
+* WORK ON YOUR UNESSAY!
 
 ### Thursday, April 22
-* *Phil.* II.85-87
+* *Phil.* II.117-119
+  * [Text and Commentary](http://dcc.dickinson.edu/cicero-philippics/ii-114)
+  * [Diogenes link](https://d.iogen.es/web/fileDisplay?ver=1.005&user=acad&host=local&filePath=texts/Perseus_Latin/data/phi0474/phi035/phi0474.phi035.perseus-lat2.xml)
+  * [Translation](https://drive.google.com/file/d/1Vx33fCZnyOLPktPQs09adGhmwl4OuYZE/view?usp=sharing)
+* WORK ON YOUR UNESSAY!
 
 ***
 
